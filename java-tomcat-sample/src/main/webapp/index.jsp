@@ -11,7 +11,7 @@
         function greetUser() {
             var userName = prompt("enter your name:");
             if (userName != null && userName != "") {
-                alert("Hello, " + userName + "! Welcome to our Facebook page!!");
+                alert("Hello, " + userName + "! Welcome to our Facebook page");
             }
         }
 
